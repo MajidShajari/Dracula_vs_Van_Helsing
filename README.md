@@ -1,0 +1,5 @@
+In Dracula vs Van Helsing, each player controls one of the title characters. Van Helsing must remove all of Dracula's life points to win, but if Dracula turns all four inhabitants of the same district into vampires first, Dracula wins.
+
+The game lasts at most five rounds. Each round, players play in turn (starting with Dracula), drawing a card, then discarding that card or swapping it with one of the five cards on their rack to trigger the discarded card's ability. Cards come in eight types, each with its own effect. Instead of drawing (and discarding) a card, a player can call for the end of the round. In order to choose this action, at least six cards need to be in the discard pile. After the opponent plays one last turn, the round ends; otherwise, the round ends when the deck is empty.
+
+At the end of a round, players compare the five cards on their rack. Each card corresponds to one of the five districts on the game board. If Dracula has the higher-valued card, one of the humans in this district is converted into a vampire; if Van Helsing is higher, Dracula loses a health point. If one of the game-winning conditions is met, the game ends immediately.
